@@ -40,15 +40,17 @@ This website's design is based on a Figma file, which served as the layout and s
 2. **Open index.html in a web browser to view the website.**
 
 ## Folder Structure
-Nexent
-├── img/                 # Contains images and logos used in the project
-├── index.html           # Main HTML file
-└── styles.css           # Main CSS file
+
+- **img/**: Contains images and logos used in the project.
+- **index.html**: Main HTML file.
+- **styles.css**: Main CSS file.
 
 ## Credits
-Design Reference: This project design is inspired by the [Nexent Figma design](https://www.figma.com/community/file/1222060007934600841).
-Icons: [Remix Icon](https://remixicon.com/)
-Fonts: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
+
+- **Design Reference**: This project design is inspired by the Nexent Figma design.
+- **Icons**: [Remix Icon](https://remixicon.com/)
+- **Fonts**: [Google Fonts - Poppins](https://fonts.google.com/specimen/Poppins)
 
 ## License
+
 This project is for educational purposes and not intended for commercial use.
