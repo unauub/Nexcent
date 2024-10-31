@@ -36,7 +36,7 @@ This website's design is based on a Figma file, which served as the layout and s
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/nexent-website.git
+   git clone https://github.com/unauub/Nexcent.git
 2. **Open index.html in a web browser to view the website.**
 
 ## Folder Structure
